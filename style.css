@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    background-color: rgb(187, 245, 173);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background: linear-gradient(to right, #abedfd, #65ddaf);
+}
+
+#origami1{
+    background: linear-gradient(to right, #fcfdab, #99eb4d);
+}
+
+#origami2{
+    background: linear-gradient(to right, #ffb578, #eb6161);
+}
+
+#Dragon{
+    width: 400px;
+    height: 300px;
+}
+
+#Caja{
+    width: 400px;
+    height: 300px;  
+}
+
+#Avion{
+    width: 400px;
+    height: 300px;  
+}
+
+#Sobre{
+    width: 400px;
+    height: 300px;  
+}
+
+#Tulipán{
+    width: 400px;
+    height: 300px;  
+}
+
+#Grulla{
+    width: 400px;
+    height: 300px;  
+}
+
+img {
+    transition: transform .7s;
+  }
+  
+  img:hover {
+  transform: scale(0.7);
+  }
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
